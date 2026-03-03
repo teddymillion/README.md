@@ -1,0 +1,10 @@
+# Commands
+git checkout main
+git merge bug-fix-typo
+
+# Sample Terminal Output
+Switched to branch 'main'
+Updating 1a2b3c4..5d6e7f8
+Fast-forward
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
